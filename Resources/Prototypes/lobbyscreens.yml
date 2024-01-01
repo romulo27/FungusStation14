@@ -6,55 +6,6 @@
   id: Supermatter
   background: /Textures/LobbyScreens/supermatter.png
 
-- type: lobbyBackground
-  id: Sseth
-  background: /Textures/LobbyScreens/sseth.png
-
-- type: lobbyBackground
-  id: FurryHOS
-  background: /Textures/LobbyScreens/hosf.png
-
-- type: lobbyBackground
-  id: FurryCorridor
-  background: /Textures/LobbyScreens/corridorf.png
-
-- type: lobbyBackground
-  id: FurryPlanet
-  background: /Textures/LobbyScreens/planetf.png
-
-- type: lobbyBackground
-  id: FurryLab
-  background: /Textures/LobbyScreens/labf.png
-
-- type: lobbyBackground
-  id: FurryChill
-  background: /Textures/LobbyScreens/chillf.png
-
-- type: lobbyBackground
-  id: FurryShooting
-  background: /Textures/LobbyScreens/shootingf.png
-
-- type: lobbyBackground
-  id: FurryPlanetside
-  background: /Textures/LobbyScreens/planetsidef.png
-
-- type: lobbyBackground
-  id: FurrySad
-  background: /Textures/LobbyScreens/sadf.png
-
-- type: lobbyBackground
-  id: FurryThief
-  background: /Textures/LobbyScreens/thief.png
-
-- type: lobbyBackground
-  id: ShipArt
-  background: /Textures/LobbyScreens/ship.png
-
-- type: lobbyBackground
-  id: SpaceCarpShitpost
-  background: /Textures/LobbyScreens/carp.png
-
-
 #- type: lobbyBackground
 #  id: MedbayMadness
 #  background: /Textures/LobbyScreens/MedbayMadness.png
